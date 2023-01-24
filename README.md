@@ -1,3 +1,6 @@
+Omdat uit deze samenwerking een integrale IMBOR versie is voortgekomen, verwijzen we naar https://github.com/Stichting-CROW/imbor voor het plaatsen van reviews op het gebruik van IMBOR
+
+
 # Pilotprojecten-BIM-Pro-OTL-ILS-en-dataverbindingen
 
 In deze Github repo beschrijven we experimenten, resultaten ervan en issues voor verbetering van IMBOR in linked data, de ILS van CROW en eventuele aanvullende afspraken rondom toepassing.
